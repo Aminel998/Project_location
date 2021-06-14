@@ -1,0 +1,18 @@
+.input-group {
+    display:flex;
+    
+}
+.searchIcon {
+    margin-top: 11px;
+    width: 37px;
+    height: 37px;
+    margin-left: 6px;
+    background-color: transparent;
+    font-size: 17px;
+    padding: 6px;
+    padding-left: 7px;
+    border-radius: 4px;
+}
+.form-control {
+    display: inline !important;
+}

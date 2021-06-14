@@ -1,0 +1,62 @@
+.mycop {
+    width:100%;
+    height:600px;
+}
+.minitile {
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+}
+.benef-title {
+    padding: 5px 25px;
+    color: #333333 !important;
+    font-size: 30px;
+    line-height: 1.3;
+    font-weight: 700;
+}
+.benef-second {
+    font-size: 19px;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #999999;
+    background-clip: inherit;
+    background-color: inherit;
+    -webkit-text-fill-color: #999999;
+}
+.devlop-benef {
+    margin-left: 100px;
+    text-align: center;
+    padding-top: 80px;
+    display: flex;
+}
+.card {
+    width: 343px;
+    height: 287px;
+    margin-right: 40px;
+}
+.card-title {
+    font-size: 18px;
+    line-height: 1.3;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #333;
+    background-clip: inherit;
+    background-color: inherit;
+    -webkit-text-fill-color: #333;
+}
+.card-text {
+    font-size: 14px;
+    line-height: 1.9;
+    margin-bottom: 0px;
+    color: #666666 !important;
+    width: 270px;
+    margin: 0 auto;
+}
+hr {
+    background-color: black !important;
+    
+}

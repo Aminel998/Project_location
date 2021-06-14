@@ -1,0 +1,48 @@
+.nom_client {
+    height: 100px;
+    width: 100%;
+    border-bottom: 1px solid #dee2e6!important;
+    padding: 42px;
+}
+.myclient {
+    height: 100%;
+    width: 100%;
+}
+.detail_flex {
+    display: flex;
+}
+.detail_client {
+    padding-left:80px;
+    padding-top: 50px;
+}
+.form-check-input {
+    width: 17px;height: 17px;
+}
+.detail_grp1 {
+    margin-right: 150px;
+}
+.nom_client span {
+    font-size: 30px;
+}
+.detail_flex li {
+    margin-bottom: 20px;
+   font-size: 19px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 500;
+}
+.twopass {
+    display: flex;
+}
+.twopass input {
+    margin-right: 60px;
+}
+
+.detail_flex input {
+   background-color: transparent;
+   border: solid 1px #7F7F7F;
+}
+.to_confirm {
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}

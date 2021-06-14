@@ -1,0 +1,59 @@
+.myprofile_modale {
+ overflow-y: scroll;
+
+}
+.ofrating {
+    margin-bottom: 50px;
+    display: flex;
+}
+.towrite span {
+    margin-right: 240px;
+}
+.tohideaucas {
+    display: block;
+}
+.tocmmentt {
+    margin-top: 50px;
+}
+.tocmmentt span {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: black !important;
+}
+.tocomment span {
+    margin-right: 40px;
+}
+.toleftate {
+    float: right;
+}
+.tocomment textarea {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    margin-top: -20px;
+}
+.myprofile_modale h5 {
+    margin-top: 15px;
+    font-weight: 700;
+}
+.myproff {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+.photos_cmt {
+    margin-right: 13px;
+}
+.mescomments {
+    margin-top: 20px;
+    overflow-y: scroll;
+}
+.contentt th {
+    background-color: #556080;
+}
+.comments_ppl {
+    margin-top: 20px;
+    display: flex;
+}

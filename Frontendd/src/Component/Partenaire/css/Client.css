@@ -1,0 +1,35 @@
+.client_containner {
+    margin:50px;
+    width: 1200px;
+    height: 650px;
+    display: flex;
+}
+.contain_client {
+    width: 950px;
+    height: 650px;
+    overflow-y: scroll;
+    background-color: #e5e8eb;
+    display: flex;
+}
+.client_bar {
+    background-color: #222;
+    height: 100%;
+    width: 250px;
+    padding-top: 130px;
+}
+.bar-haut {
+    border-top: 1px solid rgb(255, 255, 255);
+}
+.client_bar .bar:hover {
+background-color: #333;
+}
+.client_bar .bar {
+    cursor: pointer;
+    padding-top: 17px;
+    height: 60px;
+    width: 100%;
+    color: white !important;
+    font-weight: 500;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    text-align: center;
+}

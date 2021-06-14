@@ -1,0 +1,135 @@
+.nom_client {
+    height: 100px;
+    width: 100%;
+    border-bottom: 1px solid #c7c7c7!important;
+    padding: 32px;
+}
+.nom_client  span {
+    font-weight: 500;
+    font-size: 22px;
+}
+.basic_out {
+    color: #a0a1a1;
+}
+.myclient {
+    height: 100%;
+    width: 100%;
+}
+.client_profile {
+    margin: 14px;
+    width: 230px;
+    height: 470px;
+    background-color: rgb(255, 255, 255);
+    padding-left:13px;
+    padding-top:18px;
+}
+.profile_cli {
+    border-radius: 10px;
+    width: 210px;
+    height: 235px;
+    text-align: center;
+}
+.client_img {
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.profile_cli span {
+    color:#222 !important;
+}
+.mtbtn {
+    background: #222 !important;
+    width: 150px;
+}
+.glob_client {
+    display: flex;
+}
+.profile_content {
+    margin: 15px;
+    /* height: 470px; */
+}
+.profile_basic {
+    width: 670px;
+    /* height: 220px; */
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.all_basic {
+    display: flex;
+    margin: 30px;
+}
+.modify_basic {
+    float: right;
+    cursor: pointer;
+}
+.all_basic li {
+    margin-bottom: 7px;
+}
+.basic_out {
+    margin-left: 60px;
+}
+.profile_info {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    width: 670px;
+    /* height: 230px; */
+    background-color: rgb(255, 255, 255);
+}
+.saveEdit1{
+    margin: 10px 0px 0px 0%;
+    width: 182px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+    background-color: red;
+}
+
+.inputfile {
+    color: white;
+	width: 10px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+    color: white;
+}
+.inputfile , .profil_changee {
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 1.19em;
+    font-weight: 700;
+    height: max-content ;
+    background: #222;
+    display: inline-block;
+    color: white !important;
+}
+
+.inputfile:focus + label,
+
+.inputfile + label {
+	cursor: pointer; /* "hand" cursor */
+    color: white;
+}
+.myclient label {
+    width: 140px;
+}
+.footer-back {
+    text-align: center;
+}
+.myadresse {
+    width: 230px;
+}
+.footer-back input {
+    
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    color : #fff !important;
+    background-color: #D91C37;
+    font-weight: 700;
+    text-transform: uppercase;
+}

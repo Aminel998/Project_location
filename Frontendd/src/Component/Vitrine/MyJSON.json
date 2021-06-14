@@ -1,0 +1,8 @@
+[
+    {"id":5,"idPartenaire":5,"marque":"Renault","modele":"megane","consommation":456,"etat":"neuf","carburant":"566l","couleur":"rouge","matricule":44,"airbag":"sans","nbrPlace":4,"image":null,"description":"neuf voiture"},
+    {"id":6,"idPartenaire":6,"marque":"BMW","modele":"x5","consommation":630,"etat":"semi-neuf","carburant":"630L","couleur":"noir","matricule":45,"airbag":"avec","nbrPlace":6,"image":null,"description":"voiture de vacances"},
+    {"id":7,"idPartenaire":7,"marque":"Mercedes","modele":"AMG","consommation":790,"etat":"ancienne","carburant":"305L","couleur":"gris","matricule":1,"airbag":"avec","nbrPlace":4,"image":null,"description":"vital et efficace pour safar"},
+    {"id":8,"idPartenaire":8,"marque":"Lambourguini","modele":"Aventador","consommation":406,"etat":"neuf","carburant":"629L","couleur":"noir","matricule":6,"airbag":"avec","nbrPlace":2,"image":null,"description":"car qui roule tres vite"},
+    {"id":9,"idPartenaire":9,"marque":"Ford","modele":"fiesta","consommation":496,"etat":"neuf","carburant":"359L","couleur":"blanc","matricule":26,"airbag":"sans","nbrPlace":5,"image":null,"description":"voiture familliale"},
+    {"id":10,"idPartenaire":10,"marque":"Chevrolie","modele":"camaro","consommation":631,"etat":"neuf","carburant":"1403L","couleur":"rouge","matricule":40,"airbag":"sans","nbrPlace":4,"image":null,"description":"description"}
+]

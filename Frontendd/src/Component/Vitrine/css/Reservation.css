@@ -1,0 +1,153 @@
+.headImg {
+    background-position: bottom; 
+
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(215, 214, 214, 0.5)),url('../img/road.jpg') !important ;
+}
+.headImg h2 {
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+  margin-right: 440px;
+}
+.content_res  .my_img {
+    width: 346px;
+    height: 374px;
+    max-width: 370px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 6px 1px rgb(108 108 108 / 15%);
+}
+.content_res {
+    margin-left: 100px;
+    margin-top: 70px;
+    width: 1130px;
+    height: 600px;
+    display: flex;
+}
+.content_res  .my_Description {
+margin-left: 50px;
+width: 723.328px;
+height: 100%;
+}
+.my_Description .pickUpdate {
+    width: 100%;
+    height: max-content;
+    display: flex;
+}  
+.latos {
+    margin-top: 20px;
+}
+.tocontrol {
+    height: 48px;
+}
+.lato {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 1px;
+    color: #1F2B3E;
+    font-family: "Lato", sans-serif;
+}
+.options_voiture .global {
+    display: flex;
+}
+.options_voiture li {
+    margin: 0px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.particc {
+    margin-left: 100px;
+}
+.secondpick {
+   margin-left: 140px;
+}
+.item_price {
+    left: 15px;
+    bottom: 45px;
+    height: 35px;
+    color: #ffffff !important;
+    min-width: 90px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 35px;
+    padding: 0px 10px;
+    text-align: center;
+    border-radius: 4px;
+    position: relative;
+    display: inline-block;
+    background-color: #D91C37;
+} 
+.my_img .titile {
+    width: 100%;
+    height: 70px;
+    padding: 16px 20px ;
+    font-family: "arial";
+    font-size: 18px;
+    font-weight: 800;
+    color: #EA001E;
+}
+.my_img .img_content {
+    width: 100%;
+    height: 251px;
+}
+.my_img .clearfix {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.clearfix span{
+    font-size: 14px;
+    padding: 15px 20px;
+    color: #222 !important;
+    font-weight: 600;
+}
+.clearfix span:not(:last-child) {
+    border-right: 1px solid #D8D8D8;
+}
+.my_img .bottom_img {
+    width: 100%;
+    height: 53px;
+}
+.my_Description h6 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #1F2B3E;
+    font-family: sans-serif;
+}
+.descrip_voit p {
+    color: #6E7684 !important;
+}
+.tosepare {
+    height: 1px;
+    width: 100%;
+    border: none;
+    display: block;
+    margin: 15px 0px;
+    background-color: #D8D8D8 !important;
+    margin-left: 0 !important;
+} 
+.my_Description .options_voiture {
+    width: 100%;
+    height: max-content;
+}
+.special_bttn {
+    float: right;
+    height: 60px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    min-width: 230px;
+    padding: 0px 30px;
+    line-height: 62px;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    font-family: "Arial";
+    transition: 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    border: 1px black solid;
+}

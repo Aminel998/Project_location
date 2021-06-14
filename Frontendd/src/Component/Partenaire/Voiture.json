@@ -1,0 +1,20 @@
+[
+    {
+        "marque" :"Renault","modele":"megane","etat":"neuf","carburant":"Diesel","couleur":"vert","matricule":"33","airbag":"avec","nbr_place":"5","image":"renault.jpeg"
+    },
+    {
+        "marque" :"Dacia","modele":"Logan","etat":"Semi-neuf","carburant":"Essance","couleur":"noir","matricule":"44","airbag":"sans","nbr_place":"2","image":"bm.jpeg"
+    },
+    {
+        "marque" :"Dacia","modele":"Sandero","etat":"usé","carburant":"Diesel","couleur":"rouge","matricule":"1","airbag":"sans","nbr_place":"5","image":"merced.jpeg"
+    },
+    {
+        "marque" :"Ford","modele":"fiésta","etat":"neuf","carburant":"Essance","couleur":"bleu","matricule":"6","airbag":"avec","nbr_place":"4","image":"minic.jpg"
+    },
+    {
+        "marque" :"Hundai","modele":"Créta","etat":"Semi-neuf","carburant":"Essance","couleur":"gris","matricule":"67","airbag":"sans","nbr_place":"3","image":"fordf.jpeg"
+    },
+    {
+        "marque" :"Nissan","modele":"Cashkay","etat":"Semi-neuf","carburant":"Diesel","couleur":"orange","matricule":"82","airbag":"avec","nbr_place":"","image":"nissan.jpeg" 
+    }
+]

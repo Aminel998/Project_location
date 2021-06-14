@@ -1,0 +1,48 @@
+.MesVoitures {
+    background-color: rgb(221, 221, 221);
+    width: 100%;
+    height: 800px;
+}
+.tocaracter li {
+    height: 35px !important;
+    color: #D91C37 !important;
+    font-weight: 600;
+
+}
+.description span {
+    margin-left: 4px;
+    color:  #333 !important;
+    font-weight: 600;
+}
+.modeell {
+    width: 46px;
+    margin-left: 4px;
+    color:  #333 !important;
+    font-weight: 600;
+    text-align: center;
+    border: none;
+    background-color: transparent;
+}
+.etatt {
+    width: 76px;
+}
+.nbrpll {
+    width: 29px;
+}
+.coul {
+    width: 60px;
+    color: #D91C37 !important;
+}
+.airbb {
+    width: 39px;
+    color: #D91C37 !important;
+
+}
+.mrkk {
+    width: 300px;
+    text-align: left;
+}
+.tocaracter ul li {
+    margin: 0;
+    padding: 0;
+}

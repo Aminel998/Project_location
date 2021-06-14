@@ -1,0 +1,73 @@
+table {
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td,
+  table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  table td a {
+    margin-right: 7px;
+  }
+  table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  table tr:hover {
+    background-color: #ddd;
+  }
+  
+  table th, tfoot td {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #717171;
+    color: white;
+  }
+  .tablepagi button {
+    margin-right: 8px;
+    background-color: transparent !important;
+    border: none;
+  }
+  .tocloose  {
+    float: right;
+    background-color: transparent !important;
+    border: none;
+  }
+  .page-item {
+      background-color: transparent !important;
+      border: 1px solid grey;
+      width: 70px;
+      height:30px;
+      color: #D91C37;
+  }
+  .page-item:hover {
+      background-color: #c7c7c7 !important;
+  }
+  .aha {
+    border-top-left-radius: 3px !important;
+    border-bottom-left-radius: 3px !important;
+    width: 30px;
+    height:30px;
+  }
+  .iha {
+    border-top-right-radius: 3px !important;
+    border-bottom-right-radius: 3px !important;
+    width: 30px;
+    height:30px;
+  }
+  .topage {
+      float: right;
+  }
+  .toflex {
+     display: flex;
+  }
+  .bottom-table {
+      text-align: center;
+      margin-top: 14px;
+  }
+  

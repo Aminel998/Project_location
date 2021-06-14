@@ -1,0 +1,81 @@
+.costumers {
+    width: 100%;
+    height: 700px;
+    justify-content: center;
+    text-align: center;
+}
+.title-costum .first-title {
+    padding: 5px 25px;
+    color: #333333 !important;
+    font-size: 50px;
+    line-height: 1.3;
+    font-weight: 700;
+}
+.title-costum .second-title {
+    font-size: 23px;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #999999 !important;
+    background-clip: inherit;
+    background-color: inherit;
+    -webkit-text-fill-color: #999999;
+}
+.global_numbers{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .chiffre1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .col {
+    margin: 70px;
+  }
+  .chiffre2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .num_excep {
+   display: flex;
+  }
+  .num{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: normal;
+    line-height: 1.2em;
+    color: #333 !important; 
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .num_end {
+    line-height: 1.5;
+    color: #D91C37 !important;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+  }
+  .num_descri{
+    text-align: center;
+    line-height: 1.5;
+    color: #D91C37 !important;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+  }
+  .upgrade {
+    position: relative;
+    top:67px;
+    font-size: 35px !important;
+  }
+  .fon1{
+    right: 34px;
+  }
+  .fon2{
+    margin-left: 50px;
+  }

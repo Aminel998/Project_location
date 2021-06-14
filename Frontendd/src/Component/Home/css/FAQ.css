@@ -1,0 +1,80 @@
+.myfaq {
+     background-color: #F7F7F7 ;
+     padding-bottom: 50px;
+}
+.triangle {
+    background-color: #F7F7F7 ;
+    width: 100%;
+    height: 100px;
+}
+
+.faq-title {
+    text-align: center;
+}
+.faq-title span {
+    padding: 5px 25px;
+    color: #333333 !important;
+    font-size: 33px;
+    line-height: 1.3;
+    font-weight: 700 ;
+}
+.faq-title h5 {
+    padding: 5px 25px;
+    color: #333333 !important;
+    font-size: 33px;
+    font-weight: 900 ;
+}
+.container , .container1{
+    width: 100%;
+    max-width: 850px;
+    margin: auto;
+}
+
+.accordion {
+    width: 100%;
+    max-width: 840px;
+    margin: 18px auto;
+    color: #fff !important;
+}
+.accordionHeading {
+    background-color: #ede8e8 ;
+    padding: 14px 0;
+}
+.container1 span {
+   margin-right: 20px;
+}
+.container1 {
+    height: 25px;
+}
+.container1 p {
+    margin-top: 10px;
+    margin-left: 20px;
+ }
+.accordionHeading .container , .accordionHeading .container1  {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.accordionHeading p {
+    letter-spacing: 1.2px;
+    font-weight: 600 ;
+}
+.accordionHeading  span {
+    cursor: pointer;
+}
+.accordionContent {
+    display: flex;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: all 600ms ease-in-out;
+}
+.accordionContent  p{
+font-size: 15px;
+line-height: 1.6;
+}
+.show   {
+    height: 180px;
+    opacity: 1;
+}

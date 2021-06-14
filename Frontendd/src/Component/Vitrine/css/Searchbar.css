@@ -1,0 +1,99 @@
+.toolbar {
+    width: 295px;
+    height: 938px;
+    background-color: #F4F4F4;
+}
+.tool-title {
+    height: 60px;
+    width: 100%;
+    background-color: #232223;
+    display: flex;
+}
+.tool-left {
+    background-color: #D91C37;
+    width: 26%;
+    height: 100%;
+}
+.tool-left  {
+    padding: 9px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    color: white !important;
+}
+.tool-right {
+    width: 74%;
+    height: 100%;
+    padding-top: 13px;
+    text-align: center;
+}
+.tool-right span {
+    font-size: 20px;
+    color: white !important;
+}
+.check-box {
+    padding:40px ;
+}
+.check-box select {
+    width: 208.5px;
+    height: 48px;
+    color: #999;
+    padding: 10px;
+    font-weight: 600;
+}
+option {
+    color: #999;
+    font-size: 20px;
+}
+.from-to {
+    display: flex;
+}
+.from-to select {
+    width: 98px;
+}
+.sep {
+    width: 12px;
+    height: 48Px;
+}
+.price {
+    display: flex;
+}
+.toolbar label {
+    color: #79828c !important;
+}
+.check-box  label {
+    margin-bottom: 10px;
+    margin-right: 30px;
+    padding-top: 14px;
+    font-weight: 600;
+}
+#toto {
+    margin-right: 50px;
+}
+.check-box input {
+   width: 98px;
+   height: 42px;
+   font-weight: 600;
+   padding-left: 14px;
+ }
+ input::placeholder {
+    color: #999;
+ }
+ .submit-filter {
+ }
+ .submit-filter  input{
+    color: #D91C37;
+    border: 2px solid #D91C37;
+    background-color: transparent;
+    font-size: 16px;
+    padding: 12px 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    width: 210px;
+    height: 55px;
+ }

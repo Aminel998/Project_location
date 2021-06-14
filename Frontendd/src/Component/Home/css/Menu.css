@@ -1,0 +1,44 @@
+* {
+    text-decoration: none !important;
+}
+.poss {
+    position: absolute !important;
+    width: 100%;
+    border-bottom:  outset 1px white;
+}
+.myMenu {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-left: 20px;
+}
+#navbarNav {
+   float: right;
+   margin-right: 200px;
+}
+.myMenu button {
+    background-color: transparent !important;
+    border: none;
+}
+ul li {
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+}
+a {
+    
+    color: white;
+}
+.pil {
+    color: honeydew !important;
+    -webkit-transition: color 0.4s ease-out;
+ -moz-transition: color 0.4s ease-out;
+ -o-transition: color 0.4s ease-out;
+ -ms-transition: color 0.4s ease-out;
+ transition: color 0.4s ease-out;
+}
+.pil:hover {
+ color: #D91C37 !important;
+}
+.pil_push {
+    margin-right: 90px;
+}
